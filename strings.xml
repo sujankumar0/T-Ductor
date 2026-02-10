@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">T-Ductor</string>
+    <string name="et_native_language">Ingrese Texto</string>
+    <string name="tv_destiny_language">Traduccion</string>
+    <string name="btn_select_language">Español</string>
+    <string name="btn_selected_language">Inglés</string>
+    <string name="btn_translate">Traducir</string>
+
+    <string name="menu_clean_text">Limpiar</string>
+
+    <string name="txt_message">Se requiere de una conexión wifi para descargar los paquetes de idioma</string>
+    <string name="btn_okay">Entendido</string>
+
+    <string name="menu_info">Información</string>
+    <string name="info">Los paquetes se instalan una sola vez por idioma, luego de esto, podrás utilizar la aplicación sin necesidad de conexión a internet</string>
+</resources>
